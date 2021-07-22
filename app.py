@@ -13,7 +13,7 @@ import response_lib
 
 app = Flask(__name__)
 app.logger.setLevel(logging.INFO)
-SIZE_LIMIT = 273741824
+SIZE_LIMIT = 1273741824
 
 protocol = "https"
 suffix = "core.windows.net"
