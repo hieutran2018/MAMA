@@ -33,7 +33,7 @@ msal-extensions==0.3.0
 msrest==0.6.21
 msrestazure==0.6.4
 multidict==5.1.0
-oauthlib==3.1.1
+oauthlib==3.2.1
 opencensus==0.7.13
 opencensus-context==0.1.2
 opencensus-ext-azure==1.0.8
