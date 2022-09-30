@@ -25,7 +25,7 @@ idna==2.10
 isodate==0.6.0
 itsdangerous==2.0.1
 Jinja2==3.0.1
-joblib==1.0.1
+joblib==1.2.0
 kubernetes==17.17.0
 MarkupSafe==2.0.1
 msal==1.12.0
